@@ -55,7 +55,7 @@ Example signals:
 ```text
 IBP gave a signal on 2025-06-19
 AAMRANET gave a signal on 2024-11-05
-BXPHARMA gave a signal on 2023-08-14
+BXPHARMA gave a signal on 2023-08-14  
 
 
 > Exact research filters are withheld; these are safe, illustrative examples to showcase code quality and workflow.
