@@ -84,8 +84,8 @@ The notebook includes simple charts:
 
 ## Contact
 
-Mehedi Hasan Ahmed
-Email: [mehedi24434@gmail.com](mailto:mehedi24434@gmail.com)
+Mehedi Hasan Ahmed  
+Email: [mehedi24434@gmail.com](mailto:mehedi24434@gmail.com)  
 LinkedIn: <https://www.linkedin.com/in/mehedi-hasan-ahmed-1a2b3c4d5/>
 
 ---
