@@ -5,7 +5,7 @@ A compact, **three‑file** repo that demonstrates my end‑to‑end workflow fo
 ## Files in this repo
 
 * `data_updater.py` — fetches day‑end data from DSE and updates per‑ticker CSVs, plus a small data‑hygiene helper.
-* `Historical_performance.py` — three example filters and a yearly win/loss summary per filter.
+* `historical_performance.py` — three example filters and a yearly win/loss summary per filter.
 * `myTrade.ipynb` — runnable walkthrough: update data → run filters → visualize performance.
 
 > **Note on data**: The notebook expects per‑ticker CSVs under `./Scrapped_data/daily/` named like `AAMRANET.csv` with columns `date, open, high, low, close, volume, trade`.
